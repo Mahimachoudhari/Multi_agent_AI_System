@@ -1,0 +1,7 @@
+streamlit
+fastapi
+uvicorn
+python-dotenv
+graphviz
+pydantic
+groq
