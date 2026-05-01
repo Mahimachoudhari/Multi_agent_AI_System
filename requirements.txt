@@ -5,3 +5,13 @@ python-dotenv
 graphviz
 pydantic
 groq
+
+
+
+streamlit==1.45.1
+fastapi==0.116.1
+uvicorn==0.35.0
+python-dotenv==1.1.1
+graphviz==0.21
+pydantic==2.11.7
+groq==0.31.0
